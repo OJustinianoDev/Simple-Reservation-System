@@ -39,7 +39,6 @@ public class Main {
                 System.out.println();
                 System.out.println("Encerrando...");
                 executando = false;
-
             }
             else {
                 System.out.println("[ERRO] Escolha uma opção válida");
